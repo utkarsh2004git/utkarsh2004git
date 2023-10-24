@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shahare</h1>
 <h3 align="center">I am Coding Enthusiast !</h3>
-<img align="right" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA" width=400 alt="img">
+<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width=400 alt="img">
 - 🌱 I’m currently learning **Full Stack , DSA , Java , Database**
 
 <h3 align="left">Connect with me:</h3>
