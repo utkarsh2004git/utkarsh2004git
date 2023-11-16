@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shahare</h1>
 <h3 align="center">I am Coding Enthusiast !</h3>
 <img  align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width=400 alt="img">
-<h3>- 🌱 I’m currently learning **Full Stack , DSA , Java , Database**</h3>
+<h3>- 🌱 I’m currently learning **Full Stack , DSA  , Java , Database**</h3>
 
 - ⚡ Fun fact **There is no place like 127.0.0.1**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://codepen.io/utkarsh_001122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="utkarsh_001122" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarsh-shahare-7b4109214" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-shahare-7b4109214" height="30" width="40" /></a>
