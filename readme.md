@@ -2,7 +2,7 @@
 <h3 align="center">I am Coding Enthusiast !</h3>
 
 <img  align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width=350 alt="img">
-<h3>- 🌱 I’m currently learning **Full Stack , DSA  , Java , Database**</h3>
+<h3>- 🌱 I’m currently learning **Full Stack , DSA  , Java , DBMS**</h3>
 
 - ⚡ Fun fact **There is no place like 127.0.0.1**
 
