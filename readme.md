@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Utkarsh Shahare</h1>
 <h3 align="center">I am Coding Enthusiast !</h3>
 
-<img  align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width=350 alt="img">
+<img  align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width=300 alt="img">
 <h3>- 🌱 I’m currently learning <strong> | Full Stack , DSA </strong></h3>
 - ⚡ <b>Fun fact There is no place like 127.0.0.1</b>
 
@@ -14,10 +14,10 @@
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" /> Tools and Languages :
 <p align="left" >
-  <img src="https://skillicons.dev/icons?i=java,python,c,go,react,next,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,go,react,next,html,css" />
 </p>
 <p align="left" >
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,tailwind,mysql,mongo,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,tailwind,mysql,mongo,git,github" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh2004git&" alt="utkarsh2004git" /></p>
