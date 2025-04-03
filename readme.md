@@ -21,7 +21,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh2004git&" alt="utkarsh2004git" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh2004git&show_icons=true&locale=en&layout=compact" alt="utkarsh2004git" /></p>
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh2004git&show_icons=true&locale=en&layout=compact](https://camo.githubusercontent.com/a300f582dbec6294da3a49365678890e73a8fda4625f9904e25cbdc4c773fcb6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d75746b617273683230303467697426)" alt="utkarsh2004git" /></p>
 
 
 [![An image of @utkarsh2004git's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh2004git)](https://holopin.io/@utkarsh2004git)
