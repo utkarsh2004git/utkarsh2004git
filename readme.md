@@ -20,8 +20,4 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,tailwind,mysql,mongo,git,github" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh2004git&" alt="utkarsh2004git" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh2004git&show_icons=true&locale=en&layout=compact" alt="utkarsh2004git" /></p>
-
-
 [![An image of @utkarsh2004git's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh2004git)](https://holopin.io/@utkarsh2004git)
